@@ -1,7 +1,5 @@
 # Building a Complex Generative AI Project Using LangChain and OpenPrompt  
 
----
-
 Generative AI is rapidly reshaping industries with capabilities like creative content generation, personalized recommendations, and task automation. Frameworks like **LangChain** and **OpenPrompt** simplify the development of complex projects by integrating powerful prompt engineering, chaining logic, and modular design.  
 
 In this blog, we'll walk through an end-to-end example of using LangChain and OpenPrompt to build a **Multi-Document Summarization and Query System** for research papers. This project will:  
